@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=League+Spartan:wght@800&family=Stylish:wght@400;500;600;800&family=Almendra:wght@400;500;600;800&family=Quintessential:wght@400;500;600;800&family=Lato:wght@100;300;400;700;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Nanum+Pen+Script&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Linden+Hill:wght@100;200;300;400;500;600;700;800;900&display=swap');
+ 
+@font-face {
+    font-family: 'Canela Web';
+    src: url('https://www.harvard.edu/wp-content/themes/core/assets/fonts/theme/canela/Canela-Regular-Web.woff2') format('woff2');
+ 
+  }
+  
+  @font-face {
+    font-family: 'GT America';
+    src:  url('https://www.harvard.edu/wp-content/themes/core/assets/fonts/theme/gt-america/GT-America-Standard-Regular.woff2') format('woff2');
+ 
+  }
+body{
+ margin: 0;   
+}
+*{
+    box-sizing: border-box;
+}
+.showmore{
+  font-size: 9px;
+  font-weight: 600;
+  color: #005b96;
+  text-decoration: none;
+ cursor: pointer;
+ margin-left: 10px;
+  font-family: "GT America";
+}
